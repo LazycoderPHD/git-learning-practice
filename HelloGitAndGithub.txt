@@ -1,2 +1,2 @@
 hello git
-Main branch update
+Conflict branch update
